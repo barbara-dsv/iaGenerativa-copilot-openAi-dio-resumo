@@ -1,0 +1,1 @@
+# iaGenerativa-copilot-openAi-dio-resumo
